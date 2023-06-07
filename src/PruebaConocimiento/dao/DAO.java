@@ -1,8 +1,8 @@
 package PruebaConocimiento.dao;
 
-import modelo.Cliente;
-import modelo.Pedido;
-import modelo.Producto;
+import PruebaConocimiento.modelo.Cliente;
+import PruebaConocimiento.modelo.Pedido;
+import PruebaConocimiento.modelo.Producto;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

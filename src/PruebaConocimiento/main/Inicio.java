@@ -1,6 +1,6 @@
-package main;
+package PruebaConocimiento.main;
 
-import static main.MenuPrincipal.mostrarMenu;
+import static PruebaConocimiento.main.MenuPrincipal.mostrarMenu;
 
 /**
  *

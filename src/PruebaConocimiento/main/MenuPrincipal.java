@@ -1,4 +1,4 @@
-package main;
+package PruebaConocimiento.main;
 
 import PruebaConocimiento.dao.DAO;
 import static PruebaConocimiento.dao.DAO.eliminarPedido;
